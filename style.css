@@ -20,3 +20,6 @@ h4 {
 .right{
   float:right;
 }
+p {
+  text-transform: uppercase;
+}
